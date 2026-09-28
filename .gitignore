@@ -2,3 +2,8 @@
 __pycache__/
 *.pyc
 run_output.txt
+
+# 비밀값 (API 키 등)
+.env
+.env.*
+!.env.example
